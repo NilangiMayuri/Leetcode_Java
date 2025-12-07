@@ -1,3 +1,6 @@
+//nums[] , target is given
+//output should be the indices of the numbers
+
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         Map<Integer, Integer> dict = new HashMap<>();
